@@ -17,7 +17,7 @@ import os
 from dotenv import load_dotenv
 import difflib
 import zipfile
-from TopNews.website import *
+from website import *
 
 
 # 创建mysql引擎，用于数据入库
