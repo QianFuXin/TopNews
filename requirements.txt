@@ -1,0 +1,6 @@
+requests
+selenium
+sqlalchemy
+python-dotenv
+bs4
+pandas
