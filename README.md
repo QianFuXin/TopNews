@@ -6,3 +6,8 @@
 ##### pass138=password
 ##### url138=url
 ##### db138=db
+# 如果是linux环境
+#### 下载谷歌浏览器
+#### yum install https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+#### 将chromedriver设为可执行文件
+#### chmod +x driver/chromedriver
